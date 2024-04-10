@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasad77ghosh&label=Profile%20views&color=0e75b6&style=flat" alt="prasad77ghosh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prasad77ghosh" alt="prasad77ghosh" /></a> </p>
-
 - 🔭 I’m currently working on **Barta (A Messaging System)**
 
 - 🌱 I’m currently learning **AI/ML & System Design**
